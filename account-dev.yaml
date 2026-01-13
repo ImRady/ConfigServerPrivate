@@ -4,7 +4,7 @@ account:
 
   mailDetails:
     hostName: dev-accounts@bank.com
-    port: 8888
+    port: 9000
     from: dev-accounts@bank.com
     subject: Your Account Details from Bank dev Environment
 
