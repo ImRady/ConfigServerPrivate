@@ -3,9 +3,9 @@ account:
   build-version: 3.0.0
 
   mailDetails:
-    hostName: default-accounts@bank.com
+    hostName: '{cipher}12a00660d2ac6f3c4f71845c1da3d619f70759411952dfcd3bc9e6d7df19462df6ab807260ddc550630781fd3addb183'
     port: 9000
-    from: default-accounts@bank.com
+    from: '{cipher}12a00660d2ac6f3c4f71845c1da3d619f70759411952dfcd3bc9e6d7df19462df6ab807260ddc550630781fd3addb183'
     subject: Your Account Details from Bank Default Environment
 
   activeBranches:
