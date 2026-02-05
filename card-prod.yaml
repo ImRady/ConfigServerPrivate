@@ -1,0 +1,14 @@
+card::
+  msg: Welcome to Bank Card Prod application from private Git
+  build-version: 3.0.0
+
+  mailDetails:
+    hostName: "{cipher}0268c4acaf394ef01d50045b8bf467f4929a9b2243ea288481675330de71bb20eb05cd19a088680215827b6b8f02ee29"
+    port: 9000
+    from: "{cipher}0268c4acaf394ef01d50045b8bf467f4929a9b2243ea288481675330de71bb20eb05cd19a088680215827b6b8f02ee29"
+    subject: Your Card Details from Bank Prod Environment
+
+  activeBranches:
+    - Kep
+    - Kandal
+    - Kampong Thom
