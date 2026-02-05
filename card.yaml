@@ -3,9 +3,9 @@ card::
   build-version: 3.0.0
 
   mailDetails:
-    hostName: "{cipher}89b1d1472c8d34989dfa29e6df9c2b6ac3d247c1e5afdfb2a44aee91f9ec21b12355cb123d4696b4a9f5b1c24c5d079a"
+    hostName: "{cipher}ca85308c7795b03614c8cc48fe800914c818a713ef01cc5906a253e2e8874c4277d9563d600e891301f4dd83340a1210"
     port: 9000
-    from: "{cipher}89b1d1472c8d34989dfa29e6df9c2b6ac3d247c1e5afdfb2a44aee91f9ec21b12355cb123d4696b4a9f5b1c24c5d079a"
+    from: "{cipher}ca85308c7795b03614c8cc48fe800914c818a713ef01cc5906a253e2e8874c4277d9563d600e891301f4dd83340a1210"
     subject: Your Card Details from Bank Default Environment
 
   activeBranches:
