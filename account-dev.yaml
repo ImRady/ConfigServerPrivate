@@ -1,5 +1,5 @@
 account:
-  msg: Welcome to Bank Account Default application from Git Systems
+  msg: Welcome to Bank Account Default application from Git System
   build-version: 4.0.0
 
   mailDetails:
