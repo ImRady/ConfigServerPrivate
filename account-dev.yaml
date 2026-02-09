@@ -1,6 +1,6 @@
 account:
-  msg: Welcome to Bank Account Dev application from private Git 
-  build-version: 3.0.0
+  msg: Welcome to Bank Account Default application from Git System 
+  build-version: 4.0.0
 
   mailDetails:
     hostName: "{cipher}ae8b15306f818c3e40390f324aca0c7f141bce1cd1fbd8bbefed8914fa010d33a6eecc293d8ec5794fce24892e64fb2e"

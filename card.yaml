@@ -1,6 +1,6 @@
-card::
-  msg: Welcome to Bank Card Default application from private Git 
-  build-version: 3.0.0
+card:
+  msg: Welcome to Bank Card Dev application from  Git System 
+  build-version: 4.0.0
 
   mailDetails:
     hostName: "{cipher}ca85308c7795b03614c8cc48fe800914c818a713ef01cc5906a253e2e8874c4277d9563d600e891301f4dd83340a1210"
